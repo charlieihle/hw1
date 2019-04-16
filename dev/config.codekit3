@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/img/header/bars.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/header/bars.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/img/header/headerphoto.jpg": {
 		"ft": 16384,
 		"iS": 41263,
