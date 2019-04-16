@@ -90,11 +90,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/img/moblilesection/phonephoto.png": {
+	"/img/mobile/phones.png": {
 		"ft": 32768,
 		"iS": 16086,
 		"oA": 0,
-		"oAP": "/img/moblilesection/phonephoto.png",
+		"oAP": "/img/mobile/phones.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
