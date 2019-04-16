@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="46px" viewBox="0 0 40 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>stopwatch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-139.000000, -712.000000)">
+            <g id="ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Icons" transform="translate(132.000000, 170.000000)">
+                    <g id="stopwatch" transform="translate(8.000000, 175.000000)">
+                        <polyline id="Stroke-1" stroke="#00A1D7" stroke-width="2" points="16 1 16 29 38 29"></polyline>
+                        <path d="M37.9898944,30 C38,29.9389535 38,29.877907 38,29.8168605 C38,18.3197674 28.7432246,9 17.3238401,9 C16.8791915,9 16.4345429,9.01017442 16,9.05087209" id="Stroke-3" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M37,11 L32,6" id="Stroke-5" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M20,0.5 L12,0.5" id="Stroke-7" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M29,14 L34,10" id="Stroke-9" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M22,22 L28,17" id="Stroke-11" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M5,40 L11,35" id="Stroke-13" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M23,34 L28,40" id="Stroke-15" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M5,16 L10,22" id="Stroke-17" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M16.525,38 L16.475,45" id="Stroke-19" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M8,28.45 L0,28.55" id="Stroke-21" stroke="#00A1D7" stroke-width="2"></path>
+                        <path d="M37.3682668,30 L37.9961521,30 C37.9961521,30 37.9917304,29.6918681 37.9999422,29.2812504 C38.0087856,28.8699585 37,29.031104 37,29.031104 L37.3682668,30 Z" id="Fill-23" fill="#01A1D7"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

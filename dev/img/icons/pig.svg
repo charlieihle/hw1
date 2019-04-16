@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="43px" viewBox="0 0 51 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pig</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-132.000000, -537.000000)">
+            <g id="ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Icons" transform="translate(132.000000, 170.000000)">
+                    <g id="pig" transform="translate(1.000000, 0.000000)">
+                        <path d="M20.0759273,3.4884765 C21.6492407,3.17240347 23.2922579,3 24.9950212,3 C36.0380881,3 45,10.1643221 45,18.995211 C45,27.8356779 36.0380881,35 24.9950212,35 C13.9519542,35 5,27.8356779 5,18.995211 C5,13.449566 8.52501867,8.56480096 13.8822504,5.69140976" id="Stroke-1" stroke="#9ECB3B" stroke-width="2"></path>
+                        <polyline id="Stroke-3" stroke="#9ECB3B" stroke-width="2" points="5.22624434 17 0 17 0 27 7 27"></polyline>
+                        <path d="M14,15.9995738 C14,17.1041977 13.1048593,18 12,18 C10.8951407,18 10,17.1041977 10,15.9995738 C10,14.8949499 10.8951407,14 12,14 C13.1048593,14 14,14.8949499 14,15.9995738" id="Fill-5" fill="#9ECB3B"></path>
+                        <polyline id="Stroke-7" stroke="#9ECB3B" stroke-width="2" points="16.225 42 16.225 34 16.775 34"></polyline>
+                        <polyline id="Stroke-9" stroke="#9ECB3B" stroke-width="2" points="33.175 34 33.825 34 33.825 42"></polyline>
+                        <path d="M12.8839725,6 L12.8741396,5.90708372 C12.4119961,3.38802026 9,0.868956799 9,0.868956799 C15.273353,-2.04241983 18.7836775,3.29510399 18.7836775,3.29510399 L19,3.62547297" id="Stroke-11" stroke="#9ECB3B" stroke-width="2"></path>
+                        <path d="M45,19 C45,19 49,18.7451825 49,15" id="Stroke-13" stroke="#9ECB3B" stroke-width="2"></path>
+                        <path d="M35,12 C35,12 29.8157872,8.85521956 23,9.00519894" id="Stroke-15" stroke="#9ECB3B" stroke-width="2"></path>
+                        <polygon id="Fill-17" fill="#9ECB3B" points="13 6.0085 12.5261682 6.9915 12 6.0615"></polygon>
+                        <polygon id="Fill-19" fill="#9ECB3B" points="19 4 18 3.63893805 18.7924345 3"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

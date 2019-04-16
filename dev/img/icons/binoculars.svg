@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="48px" viewBox="0 0 50 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>binoculars</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-135.000000, -881.000000)" stroke="#D24884" stroke-width="2">
+            <g id="ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Icons" transform="translate(132.000000, 170.000000)">
+                    <g id="binoculars" transform="translate(4.000000, 344.000000)">
+                        <path d="M22,35 C22,41.0753266 17.0743074,46 11,46 C4.9246734,46 0,41.0753266 0,35 C0,28.9246734 4.9246734,24 11,24 C17.0743074,24 22,28.9246734 22,35 Z" id="Stroke-1"></path>
+                        <path d="M20.5,30 L20.5,15" id="Stroke-3"></path>
+                        <path d="M20,10.4408511 L20,1.2591098 C20,1.2591098 16.4030414,-1.57388725 13.7279263,1.2591098 C13.7279263,1.2591098 12.0680184,8.48731128 7.27109088,14.3479308 C3.58175141,18.8409684 1,29 1,29" id="Stroke-5"></path>
+                        <path d="M11,28 C11,28 5.51423352,29.7780408 5,36" id="Stroke-7"></path>
+                        <path d="M26,35 C26,41.0753266 30.9256926,46 37,46 C43.0753266,46 48,41.0753266 48,35 C48,28.9246734 43.0753266,24 37,24 C30.9256926,24 26,28.9246734 26,35 Z" id="Stroke-9"></path>
+                        <path d="M27.5,30 L27.5,15" id="Stroke-11"></path>
+                        <path d="M27,10.4408511 L27,1.2591098 C27,1.2591098 30.5969586,-1.57388725 33.2720737,1.2591098 C33.2720737,1.2591098 34.9319816,8.48731128 39.7289091,14.3479308 C43.4182486,18.8409684 46,29 46,29" id="Stroke-13"></path>
+                        <path d="M39,28 C39,28 33.5150685,29.7780408 33,36" id="Stroke-15"></path>
+                        <path d="M33,19 C33,19 25.2955049,7.75 15,19" id="Stroke-17"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

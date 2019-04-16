@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="42px" viewBox="0 0 53 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>webpages</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 43 53 43 53 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-132.000000, -1059.000000)">
+            <g id="ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Icons" transform="translate(132.000000, 170.000000)">
+                    <g id="webpages" transform="translate(0.000000, 520.000000)">
+                        <path d="M41.3219534,34 L5.67699867,34 C3.09380313,34 1,31.9516475 1,29.4268148 L1,6.57318518 C1,4.0473278 3.09380313,2 5.67699867,2 L41.3219534,2 C43.9051489,2 46,4.0473278 46,6.57318518 L46,29.4268148 C46,31.9516475 43.9051489,34 41.3219534,34 Z" id="Stroke-1" stroke="#D83928" stroke-width="2"></path>
+                        <path d="M46,8.5 L1,8.5" id="Stroke-3" stroke="#D83928" stroke-width="2"></path>
+                        <path d="M46.0999068,9 L47.3260363,9 C49.9145319,9 52,11.1034593 52,13.7142857 L52,37.2857143 C52,39.8965407 49.9145319,42 47.3260363,42 L11.6844434,42 C9.09594783,42 7,39.8965407 7,37.2857143 L7,33.818706" id="Stroke-5" stroke="#D83928" stroke-width="2"></path>
+                        <path d="M52,17.5 L46,17.5" id="Stroke-7" stroke="#D83928" stroke-width="2"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-10"></g>
+                        <polygon id="Fill-9" fill="#D83928" mask="url(#mask-2)" points="5 8 9 8 9 4 5 4"></polygon>
+                        <polygon id="Fill-11" fill="#D83928" mask="url(#mask-2)" points="10 8 14 8 14 4 10 4"></polygon>
+                        <polygon id="Fill-12" fill="#D83928" mask="url(#mask-2)" points="15 8 19 8 19 4 15 4"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

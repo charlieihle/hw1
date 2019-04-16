@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="54px" viewBox="0 0 40 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>cup</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-138.000000, -1225.000000)">
+            <g id="ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Icons" transform="translate(132.000000, 170.000000)">
+                    <g id="cup" transform="translate(8.000000, 690.000000)">
+                        <path d="M30,21 L30,45.7686833 C30,48.1010676 28.1884669,50 25.9634318,50 L6.03656821,50 C3.80168776,50 2,48.1010676 2,45.7686833 L2,21 L30,21 Z" id="Stroke-1" stroke="#F7961D" stroke-width="2"></path>
+                        <path d="M30,27.0467963 C30.2351421,27.0187185 30.4702842,27 30.7144703,27 C34.1873385,27 37,29.9107271 37,33.4953204 C37,37.0892729 34.1873385,40 30.7144703,40 C30.4702842,40 30.2351421,39.9812815 30,39.9532037" id="Stroke-3" stroke="#F7961D" stroke-width="2"></path>
+                        <polyline id="Stroke-5" stroke="#F7961D" stroke-width="2" points="21 21 21 1 13 1 13 21"></polyline>
+                        <polyline id="Stroke-7" stroke="#F7961D" stroke-width="2" points="11 21 5.79807692 12 1 14.7788462 4.59615385 21"></polyline>
+                        <polyline id="Stroke-9" stroke="#F7961D" stroke-width="2" points="1.21245012 15 0 8 6 12.2088975"></polyline>
+                        <path d="M29.4953038,0 C29.4953038,0 31.0904124,4.51843759 29.0523755,6.87143528 C27.0133943,9.22543596 28.1655745,12.7077923 30.5587095,12.9906335 C32.9518445,13.2724716 42.0814562,7.15427644 29.4953038,0 Z" id="Stroke-11" stroke="#F7961D" stroke-width="2"></path>
+                        <path d="M31,13 L26,21" id="Stroke-13" stroke="#F7961D" stroke-width="2"></path>
+                        <path d="M28,12 L22,21" id="Stroke-15" stroke="#F7961D" stroke-width="2"></path>
+                        <polyline id="Fill-17" fill="#F7961D" points="22 6 17 6 17 5 22 5"></polyline>
+                        <polyline id="Fill-19" fill="#F7961D" points="22 13 17 13 17 12 22 12"></polyline>
+                        <polyline id="Fill-21" fill="#F7961D" points="22 9 19 9 19 8 22 8"></polyline>
+                        <polyline id="Fill-23" fill="#F7961D" points="22 17 19 17 19 16 22 16"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

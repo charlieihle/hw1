@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="32px" viewBox="0 0 24 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 32 0 32"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-10.000000, -10.000000)">
+            <g id="Top-Banner-Text/Logo">
+                <g id="logo" transform="translate(10.000000, 10.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M24,12.6307741 C23.8294314,17.7381332 20.548495,22.0401402 16.0334448,23.6814272 L16.0234114,23.6814272 L7.48494983,32 L7.36454849,23.4469576 C3.04013378,21.601784 0,17.2589997 0,12.2026123 C0,5.46416056 5.37792642,0 12,0 C16.4147157,0 20.2675585,2.41605607 22.3545151,6.02484868 L6.83277592,6.02484868 C6.61204013,6.20834661 6.41137124,6.39184454 6.21070234,6.59573112 C4.72575251,8.10449188 3.81270903,10.1841351 3.81270903,12.4880535 C3.81270903,17.0856961 7.47491639,20.8066263 12,20.8066263 C16.4749164,20.8066263 20.1170569,17.1672507 20.1973244,12.6307741 L24,12.6307741 Z" id="Fill-1" fill="#4DB3E5" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
